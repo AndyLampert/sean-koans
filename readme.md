@@ -1,22 +1,21 @@
 # Notes from Andy
 
 Ok, we're gonna go through these exercises together and version control the whole
-thing. It'll be a great simulation of what actual development is like.
+thing. It'll be a great simulation of what actual development is like, and you'll
+learn a bunch of great Ruby along the way!
 
 
-started on the actual coding part. I'm always available to help, but as a rule,
+I'm always available to help, but as a rule, please
 make sure you always spend ample time trying to figure out problems on your own
 before asking others. You can always make educated guesses, look at other code
 in the project to try and find patterns, look in other projects for similar code,
 try to google your answer, look for people who have had similar problems on
-stackoverflow, etc.
-
-Since you're just starting, I'd say make a rule to yourself that you won't reach
-out to a human being for help until you've actively tried to solve it yourself
-for at least 30 minutes.
+stackoverflow, etc. Since you're just starting, I'd say make a rule to yourself
+that you won't reach out to a human being (me) for help until you've actively
+tried to solve it yourself for at least 30 minutes.
 
 We're both going to be "collaborators" on this project. That means that we can both
-push code to the repo. What I want you to do for each exercise (read: koan folder)
+push code to the repo. What I want you to do for each exercise (read: Ruby files in the koans folder)
 is make a new branch locally, do the exercise on that branch, and when you're done,
 push that branch up, submit a "Pull Request" for that branch and assign me as the
 "Assignee". I'll be notified and be able to come in and check the code. I'll
